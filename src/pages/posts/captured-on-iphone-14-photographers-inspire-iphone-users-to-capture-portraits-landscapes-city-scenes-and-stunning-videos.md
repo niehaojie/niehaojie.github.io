@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '用 iPhone 14 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
-pubDate: 2023-06-07
+title: '用 iPhone 142 拍摄：摄影佳作激发创作灵感，定格精彩人像、自然与城市风光'
+pubDate: 2023-06-09
 description: ''
 author: 'Apple Newsroom'
 cover:
